@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color -->
+    <item android:drawable="@android:color/transparent">
+        <shape android:shape="rectangle">
+            <solid android:color="#134671" />
+        </shape>
+    </item>
+    
+    <!-- White logo centered -->
+    <item
+        android:drawable="@drawable/f_w"
+        android:gravity="center"
+        android:width="180dp"
+        android:height="180dp" />
+</layer-list>

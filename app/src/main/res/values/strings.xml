@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Floussi</string>
+    <string name="merchant_account">Merchant Account</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="new_payment">New Payment</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="charge">Charge</string>
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="transaction_completed">Transaction completed</string>
+    <string name="qr_code">QR Code</string>
+    <string name="scan_to_pay">Scan to send payment</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="analytics">Analytics</string>
+    <string name="catalog">Catalog</string>
+</resources>
